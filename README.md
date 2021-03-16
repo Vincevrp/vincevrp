@@ -2,7 +2,7 @@
 <p align='center'>
 <samp>
   Hi, I'm <a href="https://vince.sh">Vince</a> 👋<br>
-  Open Source Consultant & Cyber Security Student<br>
+  Open Source Consultant & Cyber Security Enthusiast<br>
   :mailbox: vince@vince.sh
   :lock: 0x4638DFB8432AAB98
 </samp>
